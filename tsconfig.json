@@ -5,5 +5,7 @@
       "resolveJsonModule": true,
       "esModuleInterop": true,
       "module": "commonjs",
+      "outDir": "./build",
+      "rootDir": "./src"
     }
 }
